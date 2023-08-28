@@ -7,4 +7,4 @@
 
 ## Live Site
 
-[Show Site](https://aygulysn.github.io/Drink-Water/)
+[Show Site](https://yasin-aygl.github.io/Drink-Water/)
